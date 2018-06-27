@@ -1,0 +1,18 @@
+body {
+    background-color: gray;
+}
+
+#top {
+    background-color: white;
+}
+
+.title {
+    font-family: 'Permanent Marker', cursive;
+}
+
+.rps {
+    width: 30%;
+    height: 100px;
+    margin-left: 25px;
+    margin-top: 15px;
+}
