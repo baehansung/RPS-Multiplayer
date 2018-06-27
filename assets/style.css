@@ -16,3 +16,30 @@ body {
     margin-left: 25px;
     margin-top: 15px;
 }
+
+#options {
+    width: 25%;
+    height: 25%;
+}
+
+.player1, .player2 {
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 125px;
+    border-radius: 150px;
+}
+
+#choice1, #choice2 {
+    font-family: 'Bangers', cursive;
+    text-align: center;
+    font-size: 40px;
+}
+
+#images {
+    margin-top: 25px;
+    text-align: center;
+}
+
+#one, #two {
+    margin-top: 50px;
+}
